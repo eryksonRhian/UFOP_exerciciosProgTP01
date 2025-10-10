@@ -1,0 +1,4 @@
+Exercicios_*/**
+
+!Exercicios_*/*.c
+!Exercicios_*/*.cbp
